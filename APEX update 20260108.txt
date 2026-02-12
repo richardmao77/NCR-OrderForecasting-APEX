@@ -1,0 +1,6 @@
+Update Date: 3:00 PM CST on Jan 08 2026
+Change Ticket: chg12347
+
+This release includes two UI updates: 
+FR-695 UI - Highlight completed vendors
+FR-696 UI - Enable copy/paste in Order history screen
